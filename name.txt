@@ -1,0 +1,4 @@
+class name{
+public static void(String[10] args){
+System.out.println("aman");}
+}
